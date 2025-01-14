@@ -34,3 +34,4 @@ transformers
 typing_extensions
 uctools
 urllib3
+torch
